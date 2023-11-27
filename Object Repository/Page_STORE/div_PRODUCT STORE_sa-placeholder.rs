@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_PRODUCT STORE_sa-placeholder</name>
+   <tag></tag>
+   <elementGuidId>05d98025-c668-4326-bbfc-438b82183d6d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[11]/div[4]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sa-placeholder</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0debf30f-759b-4be6-8681-a9c7bcea86b1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sa-placeholder</value>
+      <webElementGuid>c67bd207-1b2f-46c7-b2e3-bbce4e513e42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;modal-open stop-scrolling&quot;]/div[@class=&quot;sweet-alert  showSweetAlert visible&quot;]/div[@class=&quot;sa-icon sa-success animate&quot;]/div[@class=&quot;sa-placeholder&quot;]</value>
+      <webElementGuid>ae5bae9d-5ba4-436b-879b-87d995496033</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div[4]/div</value>
+      <webElementGuid>89f64f74-a2b7-48fc-a57d-cc93a9b4119a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

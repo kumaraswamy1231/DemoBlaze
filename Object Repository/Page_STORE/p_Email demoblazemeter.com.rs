@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Email demoblazemeter.com</name>
+   <tag></tag>
+   <elementGuidId>53eeadcf-3096-4dec-a305-6c3fa05965b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(3)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fotcont']/div[2]/div/div/p[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>5c7ac39f-73cb-4ca9-b8e2-44460ad3965b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email: demo@blazemeter.com </value>
+      <webElementGuid>0c908e88-6dca-44d5-ab8e-0d94af352e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fotcont&quot;)/div[@class=&quot;col-sm-3 col-lg-3 col-md-3&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;caption&quot;]/p[3]</value>
+      <webElementGuid>d4ca8a38-ee5d-4abd-a6f8-0aa886f1b9c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fotcont']/div[2]/div/div/p[3]</value>
+      <webElementGuid>52104ae2-fe0d-4069-8b4e-55a99e907115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get in Touch'])[1]/following::p[3]</value>
+      <webElementGuid>bd54e3c5-b294-4c8a-a5a5-cd3fa1a48423</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::p[4]</value>
+      <webElementGuid>6d0970c6-8d94-4b89-a0c6-ae42dc90ae0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT STORE'])[2]/preceding::p[1]</value>
+      <webElementGuid>71980e86-2252-4b1d-9760-9d178d567ed2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email: demo@blazemeter.com']/parent::*</value>
+      <webElementGuid>ef20f111-c979-419a-8f0c-f76fa1c73982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[3]</value>
+      <webElementGuid>b55d0194-63e2-4f9f-b649-59941b636910</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Email: demo@blazemeter.com ' or . = 'Email: demo@blazemeter.com ')]</value>
+      <webElementGuid>c4a244a0-f717-42a1-ab32-f6d02cb744b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

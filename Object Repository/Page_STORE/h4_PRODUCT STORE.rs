@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_PRODUCT STORE</name>
+   <tag></tag>
+   <elementGuidId>7b323ddb-099c-463e-bfd6-3f8975b54c99</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='fotcont']/div[3]/div/div/h4</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>2b47bbe5-7747-4efd-902e-da3009db27d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> PRODUCT STORE</value>
+      <webElementGuid>4d5bcd15-9121-4cab-b98e-0a8be3126896</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fotcont&quot;)/div[@class=&quot;col-sm-4 col-lg-4 col-md-4&quot;]/div[@class=&quot;thumbnail&quot;]/div[@class=&quot;caption&quot;]/h4[1]</value>
+      <webElementGuid>8c813334-bf4c-484d-a59c-74117133d9f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='fotcont']/div[3]/div/div/h4</value>
+      <webElementGuid>c611a7ad-7cf4-4bb0-ada8-98da7c482c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get in Touch'])[1]/following::h4[1]</value>
+      <webElementGuid>37bd8c73-b789-4ae2-9bd2-764b9fc6c5d5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Us'])[1]/following::h4[2]</value>
+      <webElementGuid>63eb5db3-e4d8-4219-b841-8bf83fdf46b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/h4</value>
+      <webElementGuid>60745af8-873f-44af-b06e-0ba72f5d51c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = ' PRODUCT STORE' or . = ' PRODUCT STORE')]</value>
+      <webElementGuid>cfa66048-caf5-4062-b5fa-2ec116e527ec</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
